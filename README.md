@@ -4,12 +4,12 @@
 
 We are a grassroots interdisciplinary responsible AI lab.
 
-https://github.com/sponsors/equiano-institute?preview=true
 
 # Get involved
 If you are interested in getting involved with Equiano Institute, there are a number of ways you can help:
 - Propose Community Research Projects
 - Attend one of our training programs or workshops.
-- Donate to our research fund.
+- [Donate to our research fund](https://github.com/sponsors/equiano-institute?preview=true
+)
 - Contact us to partner on an AI-powered project.
 
