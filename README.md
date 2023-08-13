@@ -4,6 +4,7 @@
 
 We are a grassroots interdisciplinary responsible AI lab.
 
+https://github.com/sponsors/equiano-institute?preview=true
 
 # Get involved
 If you are interested in getting involved with Equiano Institute, there are a number of ways you can help:
